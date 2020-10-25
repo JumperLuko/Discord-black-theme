@@ -2,7 +2,7 @@
 
 --- Dark Black Discord by JumperLuko
 --- Telegram is @Jumper_Luko
---- Discord is Jumper_Luko#1399
+--- Discord is Jumper_Luko#6969
 
 This is a theme done with care of a designer
 The code was made on top of Discord code, it is not perfectly constrained, but it is on the right way.
@@ -25,6 +25,7 @@ The code was made on top of Discord code, it is not perfectly constrained, but i
     --background-secondary: #070707; /* DM list */
     --channeltextarea-background: #17191c; /* typing text area */
     --background-secondary-alt: #111113; /* call panel */
+    --scrollbar-auto-track: #070808; /* scrollbar background */
 }
 
 /* Shadow top */
@@ -67,3 +68,4 @@ The code was made on top of Discord code, it is not perfectly constrained, but i
 
 /*tests*/
 #test{background-color:green;}
+
